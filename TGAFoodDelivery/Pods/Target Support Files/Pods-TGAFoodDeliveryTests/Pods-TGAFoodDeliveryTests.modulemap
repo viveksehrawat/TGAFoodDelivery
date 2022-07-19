@@ -1,0 +1,6 @@
+framework module Pods_TGAFoodDeliveryTests {
+  umbrella header "Pods-TGAFoodDeliveryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
